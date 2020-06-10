@@ -7,4 +7,4 @@ export const options = [
   
 export const proxyuri = "https://cors-anywhere.herokuapp.com/";
 
-export const key = 'AIzaSyBbhLmqbMdEnny8r_NgSq57yVUQRWpUUTI';
+export const key = '';
